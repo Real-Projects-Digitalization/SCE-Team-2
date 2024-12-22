@@ -5,7 +5,7 @@ Cian Kelly, Benaja Miehling, Philip Krieg, Romane Grinfeld, Elena Sushansky
 
 [![easykeywiki](https://github.com/user-attachments/assets/366785ca-ce0d-4919-9845-66ab3fd10297)](https://github.com/Real-Projects-Digitalization/SCE-Team-2/wiki)
 
-[Browse our Wiki](https://github.com/Real-Projects-Digitalization/SCE-Team-2/wiki)
+To learn about EasyKey [Browse our Wiki](https://github.com/Real-Projects-Digitalization/SCE-Team-2/wiki)
 
 [or visit our github page](https://ciankelly-dotcom.github.io)
 
